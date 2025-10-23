@@ -15,7 +15,7 @@
 
 для дисципліни «Аналіз та рефакторинг коду»
 
-на тему «Основні рекомендації до написання коду для мови F#»
+на тему «Вимоги до стилю написання коду на мові F#»
 
 
 
@@ -293,4 +293,5 @@ GitHub репозиторій: https://github.com/NurePankovskyiTymofii/ark-pzpi
 // Посилання на ресурси (у коментарях)
 /// Офіційний стиль-код F#: https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/
 /// Практика та поради: https://fsharpforfunandprofit.com/
+
 
